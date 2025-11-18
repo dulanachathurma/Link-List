@@ -44,5 +44,5 @@ Linked lists are a fundamental data structure in computer science, ideal for dyn
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/dulanachathurma/C-Programming.git
+   git clone https://github.com/dulanachathurma/Link-List/blob/Linked-List/README.md
 
